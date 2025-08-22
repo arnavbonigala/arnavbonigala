@@ -1,12 +1,13 @@
 # Hey, I'm Arnav! :)
 
-I’m a student at Stanford Online High School, focused on computer science and data science.
+I’m a senior ('26) at Stanford Online High School, focused on computer science, cognitive science, and data science.
 
 I’m interested in:  
 - Machine Learning  
 - Natural Language Processing  
 - Distributed Systems  
-- Algorithms and Data Structures  
+- Algorithms and Data Structures
+- Film + Screen Writing
 
 ### I code with
 <p align="left">
