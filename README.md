@@ -1,6 +1,6 @@
 # Hey, I'm Arnav! :)
 
-I’m a senior ('26) at Stanford Online High School, focused on computer science and data science.
+I’m a freshman ('30) at University of California, Berkeley, majoring in Computer Science.
 
 I’m interested in:  
 - Machine Learning  
