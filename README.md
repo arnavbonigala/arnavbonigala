@@ -39,7 +39,7 @@ I’m interested in:
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
 </p>
 
-Check out my website: https://www.instagram.com/arnav.sf/
+Check out my website: [https://www.instagram.com/arnav.sf/](https://www.arnavbonigala.com/)
 
 ### Organizations
 - [**Tinkly**](#) — AI startup delivering customized tools
